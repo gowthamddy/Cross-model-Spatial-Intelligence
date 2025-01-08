@@ -1,4 +1,4 @@
-# T
+# Cross-Modal Spatial Intelligence for Autonomous Robot Navigation
 
 An advanced deep learning system for real-time traffic monitoring and safety analysis, capable of detecting unsafe scenarios for blind people and autonomous vehicles using multiple neural network architectures with edge device compatibility.
 
@@ -34,12 +34,6 @@ An advanced deep learning system for real-time traffic monitoring and safety ana
 | Custom CNN  | 0.812 | 0.854     | 0.867  |
 | Dilated CNN | 0.856 | 0.889     | 0.902  |
 | YOLOv9      | 0.892 | 0.912     | 0.923  |
-
-
-![Results](pic1.png)
-![Results](pic2.png)
-
-
 ---
 
 ## Installation

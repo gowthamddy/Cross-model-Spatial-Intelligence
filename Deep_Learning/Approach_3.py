@@ -201,3 +201,6 @@ print("Test loss, test accuracy after loading weights:", results)
 print("Evaluate on train data after loading best weights")
 results = model.evaluate(dataset_train)
 print("Train loss, train accuracy after loading weights:", results)
+
+model.save("result.h5")
+print("Model saved as traffic_vehicle_model.h5")
